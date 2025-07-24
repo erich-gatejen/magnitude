@@ -1,6 +1,6 @@
 {
   "name": "magnitude-test",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "A TypeScript client for running automated UI tests through the Magnitude testing platform",
   "publishConfig": {
     "access": "public"
