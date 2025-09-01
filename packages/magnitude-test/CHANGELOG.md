@@ -1,5 +1,13 @@
 # magnitude-test
 
+## 0.3.11
+
+### Patch Changes
+
+- [#131](https://github.com/magnitudedev/magnitude/pull/131) [`9d4b8a5`](https://github.com/magnitudedev/magnitude/commit/9d4b8a52badd6d5c39d3357b8a1713bd875154d6) Thanks [@ewired](https://github.com/ewired)! - Code structure change to improve IPC for future reworking and fix a build issue with a circular dependency.
+
+- [`9123917`](https://github.com/magnitudedev/magnitude/commit/9123917e4dd8be30687b43be6797d152fdffc571) Thanks [@anerli](https://github.com/anerli)! - fix: add array llm client type to test config
+
 ## 0.3.10
 
 ### Patch Changes
